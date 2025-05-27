@@ -12,7 +12,7 @@ const totalTracksElem = document.getElementById('total-tracks');
 
 
 const tracks = [
-    { name: 'mitawa', artist: 'Shankar Mahadevan , Shafqat Amanat Ali', src: 'mitawa.mp3', cover: 'mitawaa1.jpg', duration: '6:23' },
+    { name: 'Mitawa', artist: 'Shankar Mahadevan , Shafqat Amanat Ali', src: 'mitawa.mp3', cover: 'mitawaa1.jpg', duration: '6:23' },
     { name: 'Angaaronn', artist: 'Shreya ghoshal', src: 'Angaaron.mp3', cover: 'angaaron.jpg', duration: '4:19' },
     { name: 'Kesariya ', artist: 'Arjit singh', src: 'Kesariya.mp3', cover: 'Kesariya.jpg', duration: '4:28' },
     { name: 'Tum Se', artist: 'Sachin-Jigar ,Raghav Chaitanya ,varun jain', src: 'Tum Se.mp3', cover: 'Tum Se.png', duration: '4:24' },
